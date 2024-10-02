@@ -1,12 +1,17 @@
+import { useContext } from "react";
+import { MovieContext } from "../provider/MovieProvider";
 export default function Header() {
+  const { detail } = useContext(MovieContext);
   return (
     <header className="wid100">
       <div className="headerWrap wid100">
         <div className="headerLeft">
-          <a href="#">
-            <img src="" alt="" />
-          </a>
           <ul>
+            <li>
+              <a href="#" onClick={() => detail(true)}>
+                LOGO
+              </a>
+            </li>
             <li>
               <a href="">영화</a>
             </li>
