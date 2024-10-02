@@ -29,7 +29,7 @@ https://quiet-malabi-d8100d.netlify.app/
  ┃ ┣ 📜ColumnContent.jsx
  ┃ ┣ 📜ColumnHeader.jsx
  ┃ ┣ 📜Discover.jsx
- ┃ ┣ 📜Header.jsx
+ ┃ ┣ 📜Header.jsx  
  ┃ ┣ 📜Main.jsx
  ┃ ┗ 📜MovieList.jsx
  ┣ 📂provider
