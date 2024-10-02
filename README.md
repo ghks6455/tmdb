@@ -16,6 +16,7 @@ tmdb
 useState,useReducer,useContext
 
 ### 배포
+![cap](https://github.com/user-attachments/assets/e79e8be0-f92c-4341-9961-6abd7ff019eb)
 https://quiet-malabi-d8100d.netlify.app/
 
 
