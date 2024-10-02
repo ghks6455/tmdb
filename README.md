@@ -7,8 +7,19 @@ tmdb api를 활용한 리액트 체험기
 9월26일~10월2일
 
 ### 사용된 기술 & 라이브러리
-React
+React postman
 
+### API
+tmdb
+
+### 상태 관리
+useState,useReducer,useContext
+
+### 배포
+https://quiet-malabi-d8100d.netlify.app/
+
+### 개선 목표
+날 풀리면 할 예정
 
 ```
 📦src
