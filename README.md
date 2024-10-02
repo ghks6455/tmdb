@@ -18,8 +18,7 @@ useState,useReducer,useContext
 ### 배포
 https://quiet-malabi-d8100d.netlify.app/
 
-### 개선 목표
-날 풀리면 할 예정
+
 
 ```
 📦src
